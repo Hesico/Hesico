@@ -45,5 +45,5 @@
 </a>
 
 <a href="https://github.com/Hesico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=7&theme=dark"/>
 </a>
