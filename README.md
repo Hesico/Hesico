@@ -40,10 +40,9 @@
 ### Olá, <br/> meu nome é Henrique Coutinho
 
 ***
-<a href="https://github.com/Hesico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&theme=dark&hide_langs_below=1&layout=compact"/>
-</a>
 
-<a href="https://github.com/Hesico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=7&theme=dark"/>
-</a>
+ <div>
+  <a href="https://github.com/Hesico">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hesico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=7&theme=dark"/>
+</div>
