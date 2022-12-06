@@ -33,5 +33,5 @@
  <div>
   <a href="https://github.com/Hesico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hesico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,483D8B,4B0082,800080&border_color=191970"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=6&theme=tokyonight&bg_color=DEG,800080,4B0082,483D8B&border_color=191970&text_color=FFFFFF&card_width=350&hide=Tcl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesico&layout=compact&langs_count=6&theme=tokyonight&bg_color=DEG,800080,4B0082,483D8B&border_color=191970&text_color=FFFFFF&card_width=300&hide=Tcl"/>
 </div>
