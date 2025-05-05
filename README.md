@@ -1,8 +1,9 @@
 ### Henrique Coutinho
 
- :office: **Engenheiro de Software na LEVTY** </br>
+ :office: **Team Tech Leader & FullStack Developer na LEVTY** </br>
  :notebook: **Técnico em Informática Pelo IFMG** </br>
  :notebook: **Engenheiro Eletricista com habilitação em Sistemas eletrônicos pela UFJF** </br>
+ :notebook: **Aluno FullCycle** </br>
 
 <div>
 <a href="https://github.com/Hesico">
